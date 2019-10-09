@@ -1,4 +1,4 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
-* annex.largefiles=(not(mimetype=text/*)and(largerthan=0))
+* annex.largefiles=(not(mimetype=text/*)and(largerthan=100kb))
